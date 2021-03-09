@@ -1,12 +1,17 @@
 # Technical Submission: Final Lesson
 
+## Introduction
+
+Congratulations on making it to the end of this course! It's time put your newfound knowledge to the test by completing a coding exercise. Below, an embedded REPL is provided for you. Rather than coding inside this lesson, though, we recommend you open the REPL on REPL.it by clicking the link in the upper right corner.
+
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/yale-web-development-bootcamp-2020-technical-submission?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+When you start to edit the REPL, you may be prompted to sign-in. Editing will create a copy of the REPL under your personal account.
 
 ## Instructions
 
-Congratulations on making it to the end of this course! It's time put your newfound knowledge to the test by completing a coding exercise. An embedded REPL is provided for you to code in. When you click to edit, you'll be prompted to sign into REPL.it before you can make changes.
-
-
-<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/yale-web-development-bootcamp-2020-technical-submission?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+In the REPL, click `app.rb`. This is where you will write your code. Comments are provided to indicate where to start typing. Your task
+is to do the following in `app.rb`:
 
 1. Create a local variable called `name` and set it equal to a string of your name.
 2. Create a local variable called `age` and set it equal to an integer of your age.
